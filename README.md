@@ -1,4 +1,4 @@
-# Ethereum-Coding-Resources
+# Ethereum Coding Resources
 Some free resources for learning how to code for Ethereum / blockchain projects...
 
 <br/>
